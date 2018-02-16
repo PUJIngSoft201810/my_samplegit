@@ -1,0 +1,1 @@
+Sample calculator to play with git
